@@ -1,6 +1,6 @@
 # Fantastic5-MIST5740S-Project
 
-## Fitness at Five Wireframe Development 
+## Fitness @ Five Wireframe Development 
 
 ### Anabelle Dolhun, 832-470-2585
 ### Tyler Martin, 678-602-8292
@@ -69,7 +69,9 @@ insert the image
 
 # VI. Project Administration
 
+## VI.I Risk Management 
 
+## VII.II Change Management Plan
 
 # VII. Project Schedule Summary
 
