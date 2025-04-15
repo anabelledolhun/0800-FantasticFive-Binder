@@ -59,19 +59,19 @@ This project does not involve app development but provides a structured roadmap,
 
 # V. Project Stakeholders
 
-## Stakeholder Analysis
+## V.I Stakeholder Analysis
 
 insert the image
 
-## Communication Plan
+## V.II Communication Plan
 
 insert the image
 
 # VI. Project Administration
 
-## VI.I Risk Management 
+  ## VI.I Risk Management 
 
-## VI.II Change Management Plan
+  ## VI.II Change Management Plan
 
 Our team will manage changes through a structured Change Management Plan to ensure transparency, alignment, and documentation of all modifications. Any suggested changes, whether proposed by a team member or the sponsor, will be discussed in a group meeting. During this meeting, we will evaluate the components of the change and determine its impact on the project. A group vote will be conducted, and if the majority supports the change, it will be affirmed.
 
