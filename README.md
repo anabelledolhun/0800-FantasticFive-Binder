@@ -3,10 +3,10 @@
 ## Fitness at Five Wireframe Development 
 
 ### Anabelle Dolhun, 832-470-2585
-### Tyler Martin, 
-### Grayson Duckworth, 
-### Krutee Pillay 
-### Hazel
+### Tyler Martin, 678-602-8292
+### Grayson Duckworth, 912-237-9891
+### Krutee Pillay, 770-289-2375 
+### Hazel, 770-524-2599
 
 # Table of Contents 
 
