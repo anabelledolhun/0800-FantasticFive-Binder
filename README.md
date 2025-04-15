@@ -89,6 +89,24 @@ Additionally, we will maintain open communication with the sponsor regarding any
 
 # VII. Project Schedule Summary
 
+***MAKE THIS A TABLE***
+
+Cost Estimates (these estimates are not very accurate as this is a school project
+Cost Type
+Amount
+Labor hours
+83 hrs *$14/hr = $1162
+External costs
+ 
+Labor (consultants, contract labor)
+ $5000
+Equipment, hardware or software
+$15/mnth 
+List other costs such as travel & training
+ $1000
+
+
+
 # VII. Resources Required
 
 # IX. Project Budget Summary
