@@ -117,6 +117,8 @@ List other costs such as travel & training
 
 # XI. Project Handoff
 
+We will start by demonstrating how to use the wireframe. We plan to do multiple run throughs. In the first run through, we will simply demonstrate its use from a user perspective. We will then conduct a second demonstration and explain the features as we use it. We will then explain to them how this wireframe should allow them to negotiate a better price for future app developers as they already have this design in place. At this point we will ask them to demonstrate it to us to make sure it can function correctly without our help. Once they have successfully completed the demonstration we will pitch different app development platforms and state the pros and cons for each one. This way when they hire an app developer, they have a deeper understanding of the different platforms and a more effective negotiation experience. We are going to allocate at least a week for this phase as it proves to be the most crucial. This will allow them to ask any questions before the project commences and we leave for summer. 
+
 # XII. Individual Reflections
 ### Anabelle
 ### Tyler
