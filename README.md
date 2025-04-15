@@ -13,7 +13,7 @@
 ### I. Executive Summary
 ### II. Project Description / Business Case
 ### III. Project Scope
-#### IV. Measurable Organizational Impact 
+### IV. Measurable Organizational Impact 
 ### V. Project Stakeholders
 ### VI. Project Administration
 ### VII. Project Schedule Summary
@@ -65,7 +65,11 @@ insert the image
 
 ## Communication Plan
 
+insert the image
+
 # VI. Project Administration
+
+
 
 # VII. Project Schedule Summary
 
