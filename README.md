@@ -60,6 +60,9 @@ This project does not involve app development but provides a structured roadmap,
 # V. Project Stakeholders
 
 ## Stakeholder Analysis
+
+file:///Users/anabelledolhun/Downloads/Project_Binder_Group5.pdf 
+
 ## Communication Plan
 
 # VI. Project Administration
