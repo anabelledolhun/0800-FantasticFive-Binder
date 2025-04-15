@@ -61,7 +61,7 @@ This project does not involve app development but provides a structured roadmap,
 
 ## Stakeholder Analysis
 
-![Project_Binder_Group5_SHAnalysis](https://github.com/user-attachments/assets/b79dd13e-5371-455d-9095-14223227f52e)
+![Project_Binder_Group5_SHAnalysis](https://github.com/user-attachments/assets/571602d1-3755-48b3-b752-11c89f3e8e7b)
 
 ## Communication Plan
 
