@@ -121,8 +121,16 @@ We will start by demonstrating how to use the wireframe. We plan to do multiple 
 
 # XII. Individual Reflections
 ### Anabelle
+
 ### Tyler
 ### Gryason
+
+Throughout the completion of our semester-long project I have learned many valuable lessons that have enhanced my professional skills. One area I significantly improved upon was collaborating effectively with my team members. We maintained consistent and open communication throughout the project, regularly providing each other with constructive feedback to ensure we delivered the best possible outcome. This experience has helped prepare me for future roles in collaborative environments that require continuous coordination and teamwork. 
+
+Additionally, I applied several key project management principles throughout the project. We applied due dates and timelines to our activities to ensure each activity would be completed in a timely manner to adhere to our project schedule. As I already mentioned, I maintained clear and constant communication with my group members so we could all be up to date with the status of the project and ready for next steps. I was accountable for working through the specific risks to our project, and this provided me with experience as to what risks would look like on a project level. Being able to identify and mitigate risks is a major part of any successful project, which will help me to be able to better understand and identify risks to projects I work on in the future.
+
+	Overall, there are many lessons that I have learned throughout the completion of our project that will add significant value to my personal and professional development. I’ve gained real-world experience working closely with peers, applying project management techniques, and engaging with a real client. One improvement I would suggest for future semesters is to provide the project binder template earlier. We struggled in the beginning to collect our ideas and findings in a centralized manner, until the binder template was released. If the template is provided earlier in the semester it would help teams to know exactly what they should be working towards and achieving with their findings. Ultimately, this project has strengthened both my teamwork and project management skills and better equipped me to contribute to future projects. 
+
 ### Krutee 
 ### Hazel
 
