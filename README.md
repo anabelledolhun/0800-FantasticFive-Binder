@@ -61,7 +61,39 @@ This project does not involve app development but provides a structured roadmap,
 
 ## V.I Stakeholder Analysis
 
-insert the image
+### Fitness @ 5 Wireframe Development Stakeholder Analysis
+#### Project Manager: Dr. Huber
+
+##### Stakeholder Role Profile
+These questions will encourage the project team to consider a wide variety of stakeholders.  Use these questions to identify as many stakeholders as possible. After generating the list, you may decide some of the stakeholders are represented by other stakeholders or will have so little involvement in the project that you don’t need to consider them and you may remove them from your list.
+ 
+##### This list is a starting point
+Add questions to this list that fit your project environment.  If you miss an important stakeholder on one project, add a question to this list that will cause the next project team to identify that stakeholder.
+
+
+| Question | All stakeholders that apply. Use people’s names whenever possible. |
+| ----------| ------  |
+| 1. Approves funding for this project? | Dr. Huber | 
+| 2. Approves functional requirements? | Tony (gym owner) |
+| 3. Approves technical requirements? | |
+| 4. Approves design decisions? | |
+| 5. Approves changes to requirements? | |
+| 6. Approves changes affecting schedule? | |
+| 7. Approves changes affecting cost? | |
+| 8. Will use the product or service produced by the project? | |
+| 9. Set the organizational goals that drive the necessity of this project? | |
+| 10. Will assign people to the project team and determine the hours per day they work on the project?| |
+| 11. Approves contracts for suppliers? | |
+| 12. Is the manager or executive sponsoring this project (will use their authority on behalf of the project team to overcome organizational obstacles)? | |
+| 13. Will manage the project (provide leadership to assure tasks are assigned and completed on time, cost and schedule are monitored, issues are identified and resolved)? | |
+| 14. Represents organization policies governing this project? | |
+| 15. Represents regulations or laws affecting this project? | |
+| 16. Will have their work disrupted by this project? | |
+| 17. Will have to change their systems or processes because of this project? | |
+| 18. Will benefit from this project? (If this is a large group, who will represent this group?) | |
+| 19. Will perform the work on this project? (This includes all vendors and subcontractors as well as employees) | |
+| 20. Will participate in phase gate decisions to approve moving the project to the next phase? | |
+
 
 ## V.II Communication Plan
 
