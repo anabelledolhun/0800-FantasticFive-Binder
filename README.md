@@ -92,7 +92,7 @@ Additionally, we will maintain open communication with the sponsor regarding any
 ### Schedule Overview
 ### Estimated Project Completion: 4/20/2025
 
-| Major Milestones| ---  |
+| Major Milestones| Estimated Date of Completion |
 | ----------| ------  |
 | Phase 1 | 02/25/2025  |
 | Phase 2 | 03/18/2025  |
