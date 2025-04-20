@@ -82,7 +82,8 @@ Add questions to this list that fit your project environment.  If you miss an im
 | 7. Approves changes affecting cost? | Dr. Huber, team |
 | 8. Will use the product or service produced by the project? | Tony, members of Fitness @ 5 |
 | 9. Set the organizational goals that drive the necessity of this project? | Team |
-| 10. Will assign people to the project team and determine the hours per day they work on the project?| Dr. Huber |
+| 10. Will assign people to the project team and 
+determine the hours per day they work on the project?| Dr. Huber |
 | 11. Approves contracts for suppliers? | Dr. Huber |
 | 12. Is the manager or executive sponsoring this project (will use their authority on behalf of the project team to overcome organizational obstacles)? | |
 | 13. Will manage the project (provide leadership to assure tasks are assigned and completed on time, cost and schedule are monitored, issues are identified and resolved)? | |
