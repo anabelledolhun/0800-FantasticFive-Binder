@@ -89,22 +89,6 @@ Additionally, we will maintain open communication with the sponsor regarding any
 
 # VII. Project Schedule Summary
 
-***MAKE THIS A TABLE***
-
-Cost Estimates (these estimates are not very accurate as this is a school project
-Cost Type
-Amount
-Labor hours
-83 hrs *$14/hr = $1162
-External costs
- 
-Labor (consultants, contract labor)
- $5000
-Equipment, hardware or software
-$15/mnth 
-List other costs such as travel & training
- $1000
-
 | Cost Type | Amount  |
 | ----------| ------  |
 | Labor Hours | 83hrs*14/hr=$1162 |
@@ -114,6 +98,13 @@ List other costs such as travel & training
 | List other costs such as travel & training | $1000 |
 
 # VII. Resources Required
+
+Throughout the completion of our project, we utilized several key resources. In terms of people, our entire team collaborated closely to contribute ideas and complete tasks. We also received valuable guidance and feedback from our professor, Dr. Huber, and worked directly with Tony, the owner of the local gym and our project sponsor, to gather requirements and share updates.
+
+For technology, we relied on Zoom to hold virtual team meetings and stay connected when in-person meetings were not possible. We used Figma to design and develop our wireframe for the potential gym app, and Canva to create a professional PowerPoint presentation to communicate our ideas effectively.
+Our team made use of physical facilities such as our classroom, where we conducted regular in-class discussions and planning sessions. Additionally, we visited the gym to meet with Tony, which allowed us to better understand the environment and tailor our wireframe to the gym’s specific needs.
+
+Other resources included our laptops and personal devices, which were essential for accessing the design platforms and communication tools. We also referenced different online tools and websites to search for a suitable development tool that would best support the creation of a gym-focused app.
 
 # IX. Project Budget Summary
 
