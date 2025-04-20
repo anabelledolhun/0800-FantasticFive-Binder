@@ -70,20 +70,20 @@ These questions will encourage the project team to consider a wide variety of st
 #### This list is a starting point
 Add questions to this list that fit your project environment.  If you miss an important stakeholder on one project, add a question to this list that will cause the next project team to identify that stakeholder.
 
-
+#### For each of the questions below, answer the question: “Who…?”
 | Question | All stakeholders that apply. Use people’s names whenever possible. |
 | ----------| ------  |
 | 1. Approves funding for this project? | Dr. Huber | 
 | 2. Approves functional requirements? | Tony (gym owner) |
-| 3. Approves technical requirements? | |
-| 4. Approves design decisions? | |
-| 5. Approves changes to requirements? | |
-| 6. Approves changes affecting schedule? | |
-| 7. Approves changes affecting cost? | |
-| 8. Will use the product or service produced by the project? | |
-| 9. Set the organizational goals that drive the necessity of this project? | |
-| 10. Will assign people to the project team and determine the hours per day they work on the project?| |
-| 11. Approves contracts for suppliers? | |
+| 3. Approves technical requirements? | Tony (gym owner) |
+| 4. Approves design decisions? | Team, Tony |
+| 5. Approves changes to requirements? | Team, Tony |
+| 6. Approves changes affecting schedule? | Dr. Huber |
+| 7. Approves changes affecting cost? | Dr. Huber, team |
+| 8. Will use the product or service produced by the project? | Tony, members of Fitness @ 5 |
+| 9. Set the organizational goals that drive the necessity of this project? | Team |
+| 10. Will assign people to the project team and determine the hours per day they work on the project?| Dr. Huber |
+| 11. Approves contracts for suppliers? | Dr. Huber |
 | 12. Is the manager or executive sponsoring this project (will use their authority on behalf of the project team to overcome organizational obstacles)? | |
 | 13. Will manage the project (provide leadership to assure tasks are assigned and completed on time, cost and schedule are monitored, issues are identified and resolved)? | |
 | 14. Represents organization policies governing this project? | |
