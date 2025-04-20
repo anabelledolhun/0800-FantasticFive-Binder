@@ -62,12 +62,12 @@ This project does not involve app development but provides a structured roadmap,
 ## V.I Stakeholder Analysis
 
 ### Fitness @ 5 Wireframe Development Stakeholder Analysis
-#### Project Manager: Dr. Huber
+### Project Manager: Dr. Huber
 
-##### Stakeholder Role Profile
+#### Stakeholder Role Profile
 These questions will encourage the project team to consider a wide variety of stakeholders.  Use these questions to identify as many stakeholders as possible. After generating the list, you may decide some of the stakeholders are represented by other stakeholders or will have so little involvement in the project that you don’t need to consider them and you may remove them from your list.
  
-##### This list is a starting point
+#### This list is a starting point
 Add questions to this list that fit your project environment.  If you miss an important stakeholder on one project, add a question to this list that will cause the next project team to identify that stakeholder.
 
 
