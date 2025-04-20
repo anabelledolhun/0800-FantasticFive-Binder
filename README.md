@@ -99,6 +99,14 @@ Additionally, we will maintain open communication with the sponsor regarding any
 | Phase 3 |  04/07/2025 |
 | Phase 4 |  04/01/2025 |
 
+| External Milestones Affecting the Project| Date |
+| ----------| ------  |
+| Spring Break  | 02/28/2025-03/09/25 |
+| Easter | 04/20/25 |
+
+### Impact of Late Delivery
+Late delivery could cause them to not be able to have an app as we are leaving for summer. Classes commence on the due date and therefore our team is no longer together to work on the project. They would not have a wireframe for their app which would prolong their progress towards implementing an app for the gym and remain at a very high cost to make one.
+
 # VII. Resources Required
 
 Throughout the completion of our project, we utilized several key resources. In terms of people, our entire team collaborated closely to contribute ideas and complete tasks. We also received valuable guidance and feedback from our professor, Dr. Huber, and worked directly with Tony, the owner of the local gym and our project sponsor, to gather requirements and share updates.
