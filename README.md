@@ -107,7 +107,11 @@ List other costs such as travel & training
 
 | Cost Type | Amount  |
 | ----------| ------  |
-| Labor Hours |1162 |
+| Labor Hours | 83hrs*14/hr=$1162 |
+| External Costs |   |
+| Labor (consultants, contract labor) | $5000 |
+| Equipment, hardware or software | $15/mnth*3=$45  |
+| List other costs such as travel & training | $1000 |
 
 # VII. Resources Required
 
