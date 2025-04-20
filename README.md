@@ -89,13 +89,15 @@ Additionally, we will maintain open communication with the sponsor regarding any
 
 # VII. Project Schedule Summary
 
-| Cost Type | Amount  |
+### Schedule Overview
+### Estimated Project Completion: 4/20/2025
+
+| Major Milestones| ---  |
 | ----------| ------  |
-| Labor Hours | 83hrs*14/hr=$1162 |
-| External Costs |   |
-| Labor (consultants, contract labor) | $5000 |
-| Equipment, hardware or software | $15/mnth*3=$45  |
-| List other costs such as travel & training | $1000 |
+| Phase 1 | 02/25/2025  |
+| Phase 2 | 03/18/2025  |
+| Phase 3 |  04/07/2025 |
+| Phase 4 |  04/01/2025 |
 
 # VII. Resources Required
 
@@ -107,6 +109,14 @@ Our team made use of physical facilities such as our classroom, where we conduct
 Other resources included our laptops and personal devices, which were essential for accessing the design platforms and communication tools. We also referenced different online tools and websites to search for a suitable development tool that would best support the creation of a gym-focused app.
 
 # IX. Project Budget Summary
+
+| Cost Type | Amount  |
+| ----------| ------  |
+| Labor Hours | 83hrs*14/hr=$1162 |
+| External Costs |   |
+| Labor (consultants, contract labor) | $5000 |
+| Equipment, hardware or software | $15/mnth*3=$45  |
+| List other costs such as travel & training | $1000 |
 
 # X. Design Documentation and Discussion 
 
