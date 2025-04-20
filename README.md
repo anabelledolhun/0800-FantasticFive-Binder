@@ -105,7 +105,9 @@ $15/mnth
 List other costs such as travel & training
  $1000
 
-
+| Cost Type | Amount  |
+| ----------| ------  |
+| Labor Hours |1162 |
 
 # VII. Resources Required
 
