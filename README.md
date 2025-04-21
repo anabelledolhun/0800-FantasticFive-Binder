@@ -114,7 +114,7 @@ This communication plan describes our strategy for keeping the project’s stake
 
 # VI. Project Administration
 
-  ## VI.I Risk Management 
+## Risk Management 
 
   ### Risk Log
 
@@ -124,8 +124,7 @@ This communication plan describes our strategy for keeping the project’s stake
 
   ![risk_matrix_final_git](https://github.com/user-attachments/assets/2f61c27a-98de-4e4d-a5ed-a3a7b2c7adf1)
 
-
-  ## VI.II Change Management Plan
+## Change Management Plan
 
 Our team will manage changes through a structured Change Management Plan to ensure transparency, alignment, and documentation of all modifications. Any suggested changes, whether proposed by a team member or the sponsor, will be discussed in a group meeting. During this meeting, we will evaluate the components of the change and determine its impact on the project. A group vote will be conducted, and if the majority supports the change, it will be affirmed.
 
@@ -133,7 +132,7 @@ Additionally, we will maintain open communication with the sponsor regarding any
 
 *The Change log is found in the Appendices (XIII.C)*
 
-## VI.III Issue Management Plan
+## Issue Management Plan
 
   Our team will manage project issues through a structured Issue Management Plan to ensure timely identification, discussion, and resolution. When an issue arises, the group will convene to assess the situation, gather relevant details, and discuss potential solutions. Team members will provide suggestions on the most effective and efficient way to resolve the issue, ensuring that all perspectives are considered.
 
@@ -142,7 +141,7 @@ Additionally, we will maintain open communication with the sponsor regarding any
   To maintain accountability and track recurring challenges, all issues will be documented in the issue log (reference the section the issue log is on here). This log will serve as a record of identified issues, actions taken, and resolutions, ensuring transparency and continuous improvement throughout the project.
 
 
-## VI.IV Quality Management Plan
+## Quality Management Plan
 
 Usability, functionality, and consistency are 3 important criteria for checking quality in our project. 
 
