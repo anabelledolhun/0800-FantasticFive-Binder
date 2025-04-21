@@ -207,10 +207,9 @@ The basic design of our wireframe is displayed below in the image.
 
 ![wireframes_images](https://github.com/user-attachments/assets/c7dde0a8-a373-447f-8220-7519b3d0c5e9)
 
-*The Interactive Demo of the Wireframe is in the Appendices (XIII.add in letter)*
-
 In terms of design approach, our main goal was to create an inclusive UI. We aimed for our design to be consistent with the branding of the gym therefore giving the user a sense of familiarity. Considering that the gym clientele extends across any and all demographics, we wanted to ensure that any individual would feel comfortable navigating the platform. Therefore, we prioritized a clean, clear, and simple design. For sponsor needs, we placed a focal point on all of the key features we had discussed previously. 
 
+*The Interactive Demo of the Wireframe is in the Appendices (XIII.add in letter)*
 
 # XI. Implementation
 
