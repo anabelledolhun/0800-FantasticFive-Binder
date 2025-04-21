@@ -61,8 +61,8 @@ This project does not involve app development but provides a structured roadmap,
 
 ## V.I Stakeholder Analysis
 
-### Fitness @ 5 Wireframe Development Stakeholder Analysis
-### Project Manager: Dr. Huber
+| Fitness @ 5 Wireframe Development Stakeholder Analysis <br/> Project Manager: Dr. Huber |
+| -------------------------------|
 
 #### Stakeholder Role Profile
 These questions will encourage the project team to consider a wide variety of stakeholders.  Use these questions to identify as many stakeholders as possible. After generating the list, you may decide some of the stakeholders are represented by other stakeholders or will have so little involvement in the project that you don’t need to consider them and you may remove them from your list.
@@ -96,6 +96,11 @@ Add questions to this list that fit your project environment.  If you miss an im
 
 
 ## V.II Communication Plan
+
+| Fitness @ 5 Communication Plan <br/> Project Manager: Dr. Huber |
+| -------------------------------|
+
+This communication plan describes our strategy for keeping the project’s stakeholders sufficiently informed to avoid any disappointment regarding cost, schedule, or quality goals.
 
 | Stakeholder | Information needs | Frequency | Medium | Response | 
 | ------------| ----| ----| ------ | ------------ |
