@@ -173,6 +173,13 @@ We will start by demonstrating how to use the wireframe. We plan to do multiple 
 
 # XII. Individual Reflections
 ### Anabelle
+This project taught me valuable lessons on a personal and professional level. My experience was not just about working with a team, but also how to interact and work with a client. Prior to this project, I had little experience working with a real business and producing a project to provide value for it. I had worked for companies as an employee, but I had not been put in the position of having them as a client. As a result, the project seemed rather daunting to initiate and pitch our idea to them in the beginning. However, after I broke the ice and pitched the project it was very motivating to see their excitement and the value that we could provide for their business. This taught me the importance of taking action despite being intimidated which ultimately gave me the opportunity to improve my professional communication skills.  
+
+I learned valuable lessons on how to be flexible and adapt to other people’s schedules through this project. We inevitably faced difficulty in scheduling meetings as the team is composed of five college students. This issue was further enhanced as we also needed to allocate time with our sponsor. As a result, I found that a high degree of adaptability was needed in order to get the project done in a timely manner. Instead of giving up and waiting until we could all meet in person, we had to come up with other ways to meet using platforms such as zoom. Otherwise, we would not have been able to accomplish what we did and would cause the project to lack cohesiveness. This showed me how important it is to be able to compromise with one another and adapt to different ways of working. 
+
+We initially pitched an app to our sponsor, Tony. However, as we began the research process we knew that a wireframe was more feasible for our time and budget. We knew that we needed to change the scope to a wireframe but Tony’s excitement about an app was so rewarding that we felt as if we were letting him down. This implemented a sense of stubbornness in us and it took us quite some time to admit we needed to limit the scope to a wireframe. As a result, we experienced scope grope changing the scope constantly which caused further delay for phase 3 of our project. This in itself taught me the importance of managing expectation with stakeholders to avoid this sense of guilt. It also taught me the importance of making estimates in the beginning and being more realistic in what can actually get accomplished given time and budget. 
+
+In the end, this project taught me skills that can only be learned through hands on experience which is what makes it so valuable. Working with a client granted me a new sense of confidence in my ability to communicate in the professional world. It also taught me how to facilitate communication with a team and alternative ways to work together when the circumstances are not ideal. 
 
 ### Tyler
 ### Gryason
@@ -184,6 +191,15 @@ Additionally, I applied several key project management principles throughout the
 	Overall, there are many lessons that I have learned throughout the completion of our project that will add significant value to my personal and professional development. I’ve gained real-world experience working closely with peers, applying project management techniques, and engaging with a real client. One improvement I would suggest for future semesters is to provide the project binder template earlier. We struggled in the beginning to collect our ideas and findings in a centralized manner, until the binder template was released. If the template is provided earlier in the semester it would help teams to know exactly what they should be working towards and achieving with their findings. Ultimately, this project has strengthened both my teamwork and project management skills and better equipped me to contribute to future projects. 
 
 ### Krutee 
+
+When talking about project management it is easy to fall into the trap of thinking that it’s a straightforward skill to come by. As I would come to class and learn about different models, I often thought to myself that it seems simple enough to implement. For example, the outcome model, it felt intuitive to think about my desired state and work backwards from there. 
+	
+However, as we created our groups and started working, things were more complicated than I had first deemed. The catch with big projects is you will be working with a team of people who bring different backgrounds, personalities, cognitive frames, and goals to the table. I quickly learned that even though my desired outcome was clear in my head, everyone else had a slightly different version of what success in our project looked like to them. This conflict carried into many of our plans. A constant back and forth between what would serve us best in our project, what is the most efficient way to solve issues, and what would deliver the most value to our client. 
+	
+ At first aligning our visions and making space for everyone’s ideas was difficult. But as time went on our communication skills improved, and the project began to reflect the strengths of our entire team. My entire perspective shifted, and I realized multiple cognitive frames can enrich rather than complicate the process. 
+	
+Overall, the biggest lesson I learned is that while one person can produce something great, it’s through the integration of diverse perspectives and personalities that one can create a truly lasting impact. Our team is so proud of our end product because it represents a collective effort. I plan to take these skills with me into the professional world, especially the ability to navigate different perspectives with empathy and clarity, because meaningful collaboration is essential in any workplace. 
+
 ### Hazel
 
 # Appedices 
