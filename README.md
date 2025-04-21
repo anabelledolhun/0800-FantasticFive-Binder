@@ -95,6 +95,7 @@ Add questions to this list that fit your project environment.  If you miss an im
 | 19. Will perform the work on this project? (This includes all vendors and subcontractors as well as employees) | Team |
 | 20. Will participate in phase gate decisions to approve moving the project to the next phase? | Team |
 
+*Template used: Stakeholder+Analysis*
 
 ## Communication Plan
 
