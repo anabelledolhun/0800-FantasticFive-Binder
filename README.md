@@ -144,6 +144,7 @@ Our team will manage changes through a structured Change Management Plan to ensu
 
 Additionally, we will maintain open communication with the sponsor regarding any necessary changes. If the sponsor suggests a change, our team will follow the same decision-making process stated above to assess and approve the modification. All agreed-upon changes will be recorded in the change log (reference the section that the change log is on here) to track adjustments and maintain accountability throughout the project.
 
+*Change log is found in the appendices*
 
 ## VI.III Issue Management Plan
 
@@ -280,6 +281,22 @@ Won’t (W)
 Social Media Integration: As this app is focusing more on direct relationships with members and trainers it will not be necessary to build the social functions of the app out (such as messaging other members, or posting progress pictures).
 Integration with 3rd Party Device: Many gym users use fitbits or apple watches. As it would be interesting to design an app that is functional for both the main functions including workout videos
 
+## B. Risk Log
 
+  | Risk ID | WBS | Rank | Date Found | Assigned | Description | Strategy | Status |
+  | ------- | --- | ---- | ---------- | -------- | ----------- | -------- | ------ |
+  | 001 | 2 | 1 | 1/20/2025 | Anabelle | Ineffective Handoff | Allocating a week for any issues, questions, or concerns. | ------ |
+  | 002 | 5 | 2 | 1/20/2025 | Team | Insufficient Time | Establish clear project milestones, budget time for unexpected delays, and prioritize critical tasks.  | ------ |
+  | 003 | 3 | 3 | 1/20/2025 | Anabelle | Loss of Sponsor | Maintain consistent and transparent communication with Tony (our sponsor).  | resolved |
+  | 004 | 5 | 4 | 1/20/2025 | Tyler | Issues with Figma | Regularly save backups and create a contingency plan (i.e. alternative tool). | ------ |
+  | 005 | 10 | 5 | 1/20/2025 | Team | Group Member Conflict | Maintaining clear, everyday communication by haaving a group chat.  | ------ |
 
+## C. Change Log
+
+  | Change ID | Date Submitted | Requested By: | Description | Cost/Schedule Impact | Status |
+  | ------- | --- | ---- | ---------- | -------- | ----------- |
+  | 001 | 3/1/2025 | Anabelle | Doing a wireframe instead of an app | This will decrease the cost and allow us to meet our scheduling goals for the completion of the project.| approved |
+  | 002 | 3/21/2025 | Grayson | We changed our implementation strategy from a handoff to a handover. We would like to explain the wireframe in depth to provide them with expertise and insight into the basis of app development. | This will impact the schedule of our project as we will be required to allocate additional time for a handover as opposed to a handoff. | approved |
+  | 003 | 3/28/2025 | Tyler | Update wireframes to include one-on-one chat with trainers, whilst shifting away from a user-to-user focus. | Increase in cost, due to extra labor. Decrease in the amount of time due to resources needing to be allotted. | approved |
+  | 004 | 4/8/2025 | Anabelle | Changing the submission of our binder to 4/25/2025; a week earlier than our original due date | This decreases the amount of time we have to complete the project however we are ahead of schedule from the presentation | approved|
 
