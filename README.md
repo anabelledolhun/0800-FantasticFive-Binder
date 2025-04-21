@@ -84,15 +84,15 @@ Add questions to this list that fit your project environment.  If you miss an im
 | 9. Set the organizational goals that drive the necessity of this project? | Team |
 | 10. Will assign people to the project team and determine the hours per day they work on the project?| Dr. Huber |
 | 11. Approves contracts for suppliers? | Dr. Huber |
-| 12. Is the manager or executive sponsoring this project (will use their authority on behalf of the project team to overcome organizational obstacles)? | |
-| 13. Will manage the project (provide leadership to assure tasks are assigned and completed on time, cost and schedule are monitored, issues are identified and resolved)? | |
-| 14. Represents organization policies governing this project? | |
-| 15. Represents regulations or laws affecting this project? | |
-| 16. Will have their work disrupted by this project? | |
-| 17. Will have to change their systems or processes because of this project? | |
-| 18. Will benefit from this project? (If this is a large group, who will represent this group?) | |
-| 19. Will perform the work on this project? (This includes all vendors and subcontractors as well as employees) | |
-| 20. Will participate in phase gate decisions to approve moving the project to the next phase? | |
+| 12. Is the manager or executive sponsoring this project (will use their authority on behalf of the project team to overcome organizational obstacles)? | Tony |
+| 13. Will manage the project (provide leadership to assure tasks are assigned and completed on time, cost and schedule are monitored, issues are identified and resolved)? | Dr. Huber |
+| 14. Represents organization policies governing this project? | Dr. Huber|
+| 15. Represents regulations or laws affecting this project? | N/a |
+| 16. Will have their work disrupted by this project? | Team |
+| 17. Will have to change their systems or processes because of this project? | Tony, team |
+| 18. Will benefit from this project? (If this is a large group, who will represent this group?) | Tony, members of Fitness @ 5 |
+| 19. Will perform the work on this project? (This includes all vendors and subcontractors as well as employees) | Team |
+| 20. Will participate in phase gate decisions to approve moving the project to the next phase? | Team |
 
 
 ## V.II Communication Plan
