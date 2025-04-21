@@ -129,6 +129,24 @@ Additionally, we will maintain open communication with the sponsor regarding any
   To maintain accountability and track recurring challenges, all issues will be documented in the issue log (reference the section the issue log is on here). This log will serve as a record of identified issues, actions taken, and resolutions, ensuring transparency and continuous improvement throughout the project.
 
 
+## VI.IV Quality Management Plan
+
+Usability, functionality, and consistency are 3 important criteria for checking quality in our project. 
+
+#### Usability
+Usability includes the wireframe being as intuitive for the user as possible, reflecting the key features outlined in the scope, including account management, membership tracking, and access to virtual training. 
+
+#### Functionality
+Functionality includes providing enough detail in the wireframe for app developers to be able to logically structure the plans without any ambiguity or confusion. This includes the flow between pages of the wireframe are clear, which leads into consistency. 
+
+
+#### Consistency
+The wireframe design needs to be consistent in design, and functionality across all components. 
+
+Ensuring we manage a high quality project throughout we have a series of processes that we will conduct throughout the lifecycle of the project. This includes gathering stakeholder input to make sure our wireframe aligns with their vision and goals for the app. Mockups of the wireframe will be continuously made and then checked over by the team to validate each key function of the app. This will help check quality at every stage ensuring each deliverable is up to standard. User testing may not be possible due to time restraints, but constant communication with the gym will allow us to assess which components our clients value the most. 
+
+Regular collaborative feedback from the team while designing the wireframe will help with any discrepancies in the project. Furthermore quality checks during milestones in the project can further improve overall quality. At the end of wireframe development a final review meeting will be conducted to see whether all quality criteria (usability, functionality, and consistency) are met. The meeting will also include a presentation of the wireframe to the stakeholders (and possibly testers depending on Fitness @ Five), and if the majority of the team members and stakeholders are satisfied with the quality of the wireframe, the deliverable will then be approved. 
+
 # VII. Project Schedule Summary
 
 ### Schedule Overview
