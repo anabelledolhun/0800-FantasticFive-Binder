@@ -110,6 +110,7 @@ This communication plan describes our strategy for keeping the project’s stake
 | Dr. Huber | -Scheduling <br/> -Deliverables <br/> -Guidelines | Weekly | 1. In person <br/> 2. Email <br/> 3. ELC | His responses are formal due dates and posting project requirements. |
 | Team members | -Scheduling <br/> -Tasks <br/> -Quality <br/> -Brainstorming | Daily | 1. Imessage group chat <br/> 2. In person <br/> 3. Zoom <br/> 4. Google Doc comments | Responses are typically less formal and quicker than the other stakeholders as a more immediate communication flow is needed between the team. |
 
+*Template used: Communication+Plan*
 
 # VI. Project Administration
 
