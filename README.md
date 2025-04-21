@@ -60,7 +60,7 @@ This project does not involve app development but provides a structured roadmap,
 
 # V. Project Stakeholders
 
-## V.I Stakeholder Analysis
+## Stakeholder Analysis
 
 | Fitness @ 5 Wireframe Development Stakeholder Analysis <br/> Project Manager: Dr. Huber |
 | -------------------------------|
@@ -96,7 +96,7 @@ Add questions to this list that fit your project environment.  If you miss an im
 | 20. Will participate in phase gate decisions to approve moving the project to the next phase? | Team |
 
 
-## V.II Communication Plan
+## Communication Plan
 
 | Fitness @ 5 Communication Plan <br/> Project Manager: Dr. Huber |
 | -------------------------------|
