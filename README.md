@@ -99,10 +99,12 @@ Add questions to this list that fit your project environment.  If you miss an im
 
 | Stakeholder | Information needs | Frequency | Medium | Response | 
 | ------------| ----------------  | --------- | ------ | -------- |
-| Tony | -scheduling -scope -quality|
+| Tony | -scheduling 
+        -scope 
+	-quality|
 | Dr. Huber | 03/18/2025  |
 | Team members |  04/07/2025 |
-| Phase 4 |  04/01/2025 |
+
 
 # VI. Project Administration
 
