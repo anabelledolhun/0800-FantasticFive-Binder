@@ -113,6 +113,31 @@ This communication plan describes our strategy for keeping the project’s stake
 
   ## VI.I Risk Management 
 
+  ### Risk Log
+
+  | Risk ID | WBS | Rank | Date Found | Assigned | Description | Strategy | Status |
+  | ------- | --- | ---- | ---------- | -------- | ----------- | -------- | ------ |
+  | 001 | 2 | 1 | 1/20/2025 | Anabelle | Ineffective Handoff | Allocating a week for any issues, questions, or concerns. | ------ |
+  | 002 | 5 | 2 | 1/20/2025 | Team | Insufficient Time | Establish clear project milestones, budget time for unexpected delays, and prioritize critical tasks.  | ------ |
+  | 003 | 3 | 3 | 1/20/2025 | Anabelle | Loss of Sponsor | Maintain consistent and transparent communication with Tony (our sponsor).  | resolved |
+  | 004 | 5 | 4 | 1/20/2025 | Tyler | Issues with Figma | Regularly save backups and create a contingency plan (i.e. alternative tool). | ------ |
+  | 005 | 10 | 5 | 1/20/2025 | Team | Group Member Conflict | Maintaining clear, everyday communication by haaving a group chat.  | ------ |
+
+Description of fields:
+* Risk ID: a unique identifier
+* WBS: number of the task(s) related to this risk
+* Rank: how important is this risk relative to others? Rank with 1=highest. No risks have the same rank.
+* Date found: date risk became known. mm/dd/yy
+* Assigned to: person who is assigned to manage this risk
+* Description: high level description of risk event, impact and probability
+* Strategy: what will be done to reduce the probability, impact, or both?
+* Status: on-going log of changes to risk, in order from most recent to oldest. Format: mm/dd/yy – action/update
+
+  ### Risk Matrix
+
+  ![risk_matrix_final_git](https://github.com/user-attachments/assets/2f61c27a-98de-4e4d-a5ed-a3a7b2c7adf1)
+
+
   ## VI.II Change Management Plan
 
 Our team will manage changes through a structured Change Management Plan to ensure transparency, alignment, and documentation of all modifications. Any suggested changes, whether proposed by a team member or the sponsor, will be discussed in a group meeting. During this meeting, we will evaluate the components of the change and determine its impact on the project. A group vote will be conducted, and if the majority supports the change, it will be affirmed.
