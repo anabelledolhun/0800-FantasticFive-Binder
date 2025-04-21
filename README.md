@@ -14,7 +14,7 @@
 | II. Project Description / Business Case |
 | III. Project Scope |
 | IV. Measurable Organizational Impact |
-| V. Project Stakeholders <br/> V.I Stakeholder Analysis <br/> V.II Communication Plan| 
+| V. Project Stakeholders | 
 | VI. Project Administration | 
 | VII. Project Schedule Summary | 
 | VII. Resources Required | 
