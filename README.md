@@ -115,23 +115,7 @@ This communication plan describes our strategy for keeping the project’s stake
 
   ### Risk Log
 
-  | Risk ID | WBS | Rank | Date Found | Assigned | Description | Strategy | Status |
-  | ------- | --- | ---- | ---------- | -------- | ----------- | -------- | ------ |
-  | 001 | 2 | 1 | 1/20/2025 | Anabelle | Ineffective Handoff | Allocating a week for any issues, questions, or concerns. | ------ |
-  | 002 | 5 | 2 | 1/20/2025 | Team | Insufficient Time | Establish clear project milestones, budget time for unexpected delays, and prioritize critical tasks.  | ------ |
-  | 003 | 3 | 3 | 1/20/2025 | Anabelle | Loss of Sponsor | Maintain consistent and transparent communication with Tony (our sponsor).  | resolved |
-  | 004 | 5 | 4 | 1/20/2025 | Tyler | Issues with Figma | Regularly save backups and create a contingency plan (i.e. alternative tool). | ------ |
-  | 005 | 10 | 5 | 1/20/2025 | Team | Group Member Conflict | Maintaining clear, everyday communication by haaving a group chat.  | ------ |
-
-Description of fields:
-* Risk ID: a unique identifier
-* WBS: number of the task(s) related to this risk
-* Rank: how important is this risk relative to others? Rank with 1=highest. No risks have the same rank.
-* Date found: date risk became known. mm/dd/yy
-* Assigned to: person who is assigned to manage this risk
-* Description: high level description of risk event, impact and probability
-* Strategy: what will be done to reduce the probability, impact, or both?
-* Status: on-going log of changes to risk, in order from most recent to oldest. Format: mm/dd/yy – action/update
+*The Risk Log is found in the Appendices (XIII.B)*
 
   ### Risk Matrix
 
@@ -144,7 +128,7 @@ Our team will manage changes through a structured Change Management Plan to ensu
 
 Additionally, we will maintain open communication with the sponsor regarding any necessary changes. If the sponsor suggests a change, our team will follow the same decision-making process stated above to assess and approve the modification. All agreed-upon changes will be recorded in the change log (reference the section that the change log is on here) to track adjustments and maintain accountability throughout the project.
 
-*Change log is found in the appendices*
+*The Change log is found in the Appendices (XIII.C)*
 
 ## VI.III Issue Management Plan
 
