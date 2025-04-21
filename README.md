@@ -8,9 +8,9 @@
 ### Krutee Pillay, 770-289-2375 
 ### Hazel, 770-524-2599
 
-# Table of Contents 
-
-### I. Executive Summary
+| Table of Contents |
+|----|
+| ### I. Executive Summary |
 ### II. Project Description / Business Case
 ### III. Project Scope
 ### IV. Measurable Organizational Impact 
