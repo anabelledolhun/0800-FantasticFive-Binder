@@ -203,7 +203,7 @@ Other resources included our laptops and personal devices, which were essential 
 
 !([homepage_binder](https://github.com/user-attachments/assets/2562d31b-8c76-4bc6-948e-9665bb711257)
 
-![page1_binder](https://github.com/user-attachments/assets/116f6f26-af19-4bdf-a312-3242530a3132=250x250)
+![page1_binder](https://github.com/user-attachments/assets/116f6f26-af19-4bdf-a312-3242530a3132=50x50)
 
 ![page2_binder](https://github.com/user-attachments/assets/e9c9acf8-77c9-4cb5-835b-9694a7b6ab23)
 
