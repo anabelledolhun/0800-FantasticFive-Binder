@@ -13,17 +13,17 @@
 | I. Executive Summary |
 | II. Project Description / Business Case |
 | III. Project Scope |
-### IV. Measurable Organizational Impact 
-### V. Project Stakeholders
-### VI. Project Administration
-### VII. Project Schedule Summary
-### VII. Resources Required
-### IX. Project Budget Summary
-### X. Design Documentation and Discussion 
-### XI. Implementation
-### XI. Project Handoff
-### XII. Individual Reflections
-### XIII. Appendices 
+| IV. Measurable Organizational Impact |
+| V. Project Stakeholders | 
+| VI. Project Administration | 
+| VII. Project Schedule Summary | 
+| VII. Resources Required | 
+| IX. Project Budget Summary | 
+| X. Design Documentation and Discussion |
+| XI. Implementation | 
+| XI. Project Handoff | 
+| XII. Individual Reflections | 
+| XIII. Appendices |
 
 # I. Executive Summary
 
