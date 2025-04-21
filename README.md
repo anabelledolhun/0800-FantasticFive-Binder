@@ -201,7 +201,7 @@ Other resources included our laptops and personal devices, which were essential 
 
 # X. Design Documentation and Discussion 
 
-![homepage_binder](https://github.com/user-attachments/assets/2562d31b-8c76-4bc6-948e-9665bb711257)
+![]([homepage_binder](https://github.com/user-attachments/assets/2562d31b-8c76-4bc6-948e-9665bb711257)width=100)
 
 ![page1_binder](https://github.com/user-attachments/assets/116f6f26-af19-4bdf-a312-3242530a3132)
 
