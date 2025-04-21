@@ -99,8 +99,8 @@ Add questions to this list that fit your project environment.  If you miss an im
 
 | Stakeholder | Information needs | Frequency | Medium | Response | 
 | ------------| ----| ----| ------ | ------------ |
-| Tony | -Scheduling -Scope -Quality | Monthly | 1. In person 2. Email | Typical responses are approvals and validation for what we are working on. |
-| Dr. Huber | -Scheduling -Deliverables -Guidelines | Weekly | 1. In person 2. Email 3. ELC | His responses are formal due dates and posting project requirements. |
+| Tony | -Scheduling `\|` -Scope `\|` -Quality | Monthly | 1. In person 2. Email | Typical responses are approvals and validation for what we are working on. |
+| Dr. Huber | -Scheduling `\|` -Deliverables `\|` -Guidelines | Weekly | 1. In person 2. Email 3. ELC | His responses are formal due dates and posting project requirements. |
 | Team members | -Scheduling -Tasks -Quality -Brainstorming | Daily | 1. Imessage group chat 2. In person 3. Zoom  4. Google Doc comments | Responses are typically less formal and quicker than the other stakeholders as a more immediate communication flow is needed between the team. |
 
 
