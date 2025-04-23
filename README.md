@@ -297,6 +297,8 @@ Integration with 3rd Party Device: Many gym users use fitbits or apple watches. 
   | 004 | 5 | 4 | 1/20/2025 | Tyler | Issues with Figma | Regularly save backups and create a contingency plan (i.e. alternative tool). | ------ |
   | 005 | 10 | 5 | 1/20/2025 | Team | Group Member Conflict | Maintaining clear, everyday communication by haaving a group chat.  | ------ |
 
+*Template used: Risk+Log*
+
 ## C. Change Log
 
   | Change ID | Date Submitted | Requested By: | Description | Cost/Schedule Impact | Status |
@@ -306,6 +308,8 @@ Integration with 3rd Party Device: Many gym users use fitbits or apple watches. 
   | 003 | 3/28/2025 | Tyler | Update wireframes to include one-on-one chat with trainers, whilst shifting away from a user-to-user focus. | Increase in cost, due to extra labor. Decrease in the amount of time due to resources needing to be allotted. | approved |
   | 004 | 4/8/2025 | Anabelle | Changing the submission of our binder to 4/25/2025; a week earlier than our original due date | This decreases the amount of time we have to complete the project however we are ahead of schedule from the presentation | approved|
 
+*Template used: Change+Log*
+
 ## D. Issue Log 
 
   | Issue ID | WBS | Date Found | Assigned | Description | Status | Close Out Date |
@@ -313,3 +317,5 @@ Integration with 3rd Party Device: Many gym users use fitbits or apple watches. 
   | 001 | 2 | 1 | 1/20/2025 | Anabelle | Scope Grope | Allocating a week for any issues, questions, or concerns. | ------ |
   | 002 | 5 | 2 | 1/20/2025 | Team | Scope Leap | Establish clear project milestones, budget time for unexpected delays, and prioritize critical tasks.  | ------ |
   | 003 | 3 | 3 | 1/20/2025 | Anabelle | Loss of Sponsor | Maintain consistent and transparent communication with Tony (our sponsor).  | resolved |
+
+*Template used: Issue+Log*
