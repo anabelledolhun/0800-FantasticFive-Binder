@@ -2,12 +2,17 @@
 
 ## Fitness @ Five Wireframe Development 
 
-### Anabelle Dolhun, 832-470-2585
-### Tyler Martin, 678-602-8292
-### Grayson Duckworth, 912-237-9891
-### Krutee Pillay, 770-289-2375 
-### Hazel, 770-524-2599
+## Team Members
+| Name | Phone |
+|----| --|
+| Anabelle Dolhun | 832-470-2585 |
+| Tyler Martin | 78-602-8292 |
+| Grayson Duckworth | 912-237-9891 |
+| Krutee Pillay | 770-289-2375 |
+| Kyoungmin Lee (Hazel)| 770-524-2599 |
 
+
+## 
 | Table of Contents |
 |----|
 | I. Executive Summary |
@@ -21,9 +26,9 @@
 | IX. Project Budget Summary | 
 | X. Design Documentation and Discussion |
 | XI. Implementation | 
-| XI. Project Handoff | 
-| XII. Individual Reflections | 
-| XIII. Appendices |
+| XII. Project Handoff | 
+| XIII. Individual Reflections | 
+| XIV. Appendices |
 
 
 # I. Executive Summary
@@ -42,7 +47,7 @@ Fitness at Five has yet to have an app for the gym. Most of their attempts to fa
 
 ## Overview of Desired Impact
 
-Creating a wireframe for them could streamline the process of launching an app and cut the overall cost. They could negotiate a better price with a hired person to develop the app as the wireframe covers half of the work. This wireframe will serve as a blueprint to create a multifunctional app that members can use to track their membership, connect with trainers, and even have virtual training session videos for an additional charge on the app. The app should help facilitate connections between trainers and members, provide a more accessible way to track membership and membership payments, and bring in an additional source of revenue for the gym through the virtual training sessions.
+Creating a wireframe for them will streamline the process of launching an app and cut the overall cost. They can negotiate a better price with a hired person to develop the app as the wireframe accounts for major phases and lays the foundation for app development. This wireframe will serve as a blueprint to create a multifunctional app that members can use to track their membership, connect with trainers, and even have virtual training session videos for an additional charge on the app. The app will also help facilitate connections between trainers and members, provide a more accessible way to track membership and membership payments, and bring in an additional source of revenue for the gym through the virtual training sessions.
 
 # III. Project Scope
 
@@ -50,11 +55,11 @@ Creating a wireframe for them could streamline the process of launching an app a
 
 We will create wireframes to enhance member experience, streamline gym operations, and reduce app development costs. Creating wireframes that outline the app’s UI design will allow the gym to reduce the complexity of development when hiring an outside team to create the app.
 
-*MoSCoW Model in the Appendices (XIII.A)*
+*MoSCoW Model in the Appendices (XIV.A)*
 
 # IV. Measurable Organizational Impact 
 
-Our wireframe model will help Fitness @ Five explore the benefits of a potential app by showcasing key features like a scheduling tool and interactive workout videos. The scheduling tool would allow members to book personal training sessions directly, reducing administrative tasks, minimizing scheduling conflicts, and improving convenience. Workout videos would extend the gym’s reach, keeping members engaged outside the facility, increasing retention, and enhancing brand loyalty.
+Our wireframe model will help Fitness @ Five explore the benefits of a potential app by showcasing key features like a scheduling tool and interactive workout videos. The scheduling tool would allow members to book personal training sessions directly, reducing administrative tasks, minimizing scheduling conflicts, and improving convenience. Workout videos would extend the gym’s reach, keeping members engaged outside the facility, increasing retention, and provide an additional revenue stream from the added subscription.
 
 This project does not involve app development but provides a structured roadmap, helping Fitness @ Five understand how digital tools can streamline operations, improve member satisfaction, and position the gym as a modern, tech-savvy facility. Additionally, by outlining the app’s layout and features, our model can reduce development costs by giving the gym a clear vision, allowing for more efficient planning and investment in future digital solutions.
 
@@ -120,10 +125,9 @@ This communication plan describes our strategy for keeping the project’s stake
 
   ![risk_matrix_final_git](https://github.com/user-attachments/assets/2f61c27a-98de-4e4d-a5ed-a3a7b2c7adf1)
 
-
   ### Risk Log
 
-*The Risk Log is found in the Appendices (XIII.B)*
+*The Risk Log is found in the Appendices (XIV.B)*
 
 ## Change Management Plan
 
@@ -131,7 +135,7 @@ Our team will manage changes through a structured Change Management Plan to ensu
 
 Additionally, we will maintain open communication with the sponsor regarding any necessary changes. If the sponsor suggests a change, our team will follow the same decision-making process stated above to assess and approve the modification. All agreed-upon changes will be recorded in the change log (reference the section that the change log is on here) to track adjustments and maintain accountability throughout the project.
 
-*The Change log is found in the Appendices (XIII.C)*
+*The Change log is found in the Appendices (XIV.C)*
 
 ## Issue Management Plan
 
@@ -141,7 +145,7 @@ Additionally, we will maintain open communication with the sponsor regarding any
 
   To maintain accountability and track recurring challenges, all issues will be documented in the issue log (reference the section the issue log is on here). This log will serve as a record of identified issues, actions taken, and resolutions, ensuring transparency and continuous improvement throughout the project.
 
-*The Issue log is found in the Appendices (XIII.D)*
+*The Issue log is found in the Appendices (XIV.D)*
 
 ## Quality Management Plan
 
@@ -198,11 +202,11 @@ Other resources included our laptops and personal devices, which were essential 
 
 | Cost Type | Amount  |
 | ----------| ------  |
-| Labor Hours | 83hrs*14/hr=$1162 |
-| External Costs |   |
+| Labor Hours | 83hrs*$14/hr=<br/>$1162 |
 | Labor (consultants, contract labor) | $5000 |
-| Equipment, hardware or software | $15/mnth*3=$45  |
+| Equipment, hardware or software | $15/mnth*3mnths=<br/>$45  |
 | List other costs such as travel & training | $1000 |
+| Total Costs | $- |
 
 *Template used: Statement+of+Work, 'Cost Estimates' section*
 
@@ -216,15 +220,38 @@ The basic design of our wireframe is displayed below in the image.
 
 In terms of design approach, our main goal was to create an inclusive UI. We aimed for our design to be consistent with the branding of the gym therefore giving the user a sense of familiarity. Considering that the gym clientele extends across any and all demographics, we wanted to ensure that any individual would feel comfortable navigating the platform. Therefore, we prioritized a clean, clear, and simple design. For sponsor needs, we placed a focal point on all of the key features we had discussed previously. 
 
-*The Interactive Demo of the Wireframe is in the Appendices (XIII.add in letter)*
+*The Interactive Demo of the Wireframe is in the Appendices (XIV. add in letter)*
 
 # XI. Implementation
 
-# XI. Project Handoff
+## Strategy
+
+- Implement an iterative development approach, where wireframes are developed in stages, with regular feedback from Tony.
+
+## Challanges
+
+- The project has a short turnaround time, which may limit the depth of user testing and refinement.
+- Lack of in-house expertise could slow down implementation as a more detailed explanation is needed.
+- Ensuring the wireframe is adaptable for both iOS and Android platforms in the future, despite initial focus on iOS.
+
+## Solutions
+
+- We will allocate a sufficient amount of time for the implementation phase.
+- We will use a scalable design to create a wireframe that is easily adaptable for future Android development.
+- We will perform user testing on a smaller number of members including Anabelle's membership to ensure functionality prior to the
+ 
+## Required Follow-up Actions
+
+- Conduct stakeholder review meetings with the staff to ensure alignment and gather feedback.
+- We will provide on sight support to answer any questions after implementation. 
+ 
+
+# XII. Project Handoff
 
 We will start by demonstrating how to use the wireframe. We plan to do multiple run throughs. In the first run through, we will simply demonstrate its use from a user perspective. We will then conduct a second demonstration and explain the features as we use it. We will then explain to them how this wireframe should allow them to negotiate a better price for future app developers as they already have this design in place. At this point we will ask them to demonstrate it to us to make sure it can function correctly without our help. Once they have successfully completed the demonstration we will pitch different app development platforms and state the pros and cons for each one. This way when they hire an app developer, they have a deeper understanding of the different platforms and a more effective negotiation experience. We are going to allocate at least a week for this phase as it proves to be the most crucial. This will allow them to ask any questions before the project commences and we leave for summer. 
 
-# XII. Individual Reflections
+# XIII. Individual Reflections
+
 ### Anabelle
 This project taught me valuable lessons on a personal and professional level. My experience was not just about working with a team, but also how to interact and work with a client. Prior to this project, I had little experience working with a real business and producing a project to provide value for it. I had worked for companies as an employee, but I had not been put in the position of having them as a client. As a result, the project seemed rather daunting to initiate and pitch our idea to them in the beginning. However, after I broke the ice and pitched the project it was very motivating to see their excitement and the value that we could provide for their business. This taught me the importance of taking action despite being intimidated which ultimately gave me the opportunity to improve my professional communication skills.  
 
@@ -240,7 +267,6 @@ In hindsight, this project has been one of, if not the, most valuable assignment
 There was no shortage of lessons learned throughout this project, especially in regards to teamwork. First and foremost, although cliche, communication is key, and input matters. Oftentimes, we had our own respective understandings of what our scope demanded. For example, my initial wireframes, which more closely resembled a social media app than a trainer-client focused app, were indicative of scope creep. However, due to our consistent communication as a group, that issue was quickly resolved and we re-aligned to our original scope. Secondly, the best followers make for even better leaders. By being an effective follower, one can truly “lead from behind” and inspire a vision.  
 In terms of project management, this project allowed us to put all the relevant concepts, techniques, and tools that we have learned throughout this course into practice. One of my key takeaways from this project is that structure is a necessary benefit. At times, as mentioned before, our group had conflicting ideas on what our scope demanded. However, because we were able to reference tools like our MoSCoW model, risks were often entirely avoided. 
 	When it comes to creating, especially for a client, it’s supremely important to build something that you’re proud of. All too often, we, as students, are assigned with “cookie-cutter” rubrics, entirely void of any opportunity for individuality. Realistically, this is one of the only assignments throughout my education that has not only given me the opportunity to, but has inspired me to apply myself. For example, with regards to the wireframes and UI design, I was able to leverage a passionate skill of mine in order to help our project meet its requirements. Furthermore, working with a client that has a vested interest in our finished product served as a valuable motive throughout the process. 
-
 
 ### Gryason
 
@@ -270,7 +296,7 @@ Working with an actual client added another layer of professionalism to the proj
 
 Overall, this project has significantly contributed to my growth. I’ve gained hands-on experience in teamwork, project management tools, and client relations as well as how to present professionally. I would like to appreciate my teammates who helped me alot with the language barrier and understanding the principle of project management. 
 
-# Appedices 
+# XIV. Appendices 
 ## A. MoSCoW Model
 
 Must (M): 
