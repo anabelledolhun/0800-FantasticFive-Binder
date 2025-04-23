@@ -320,8 +320,7 @@ Integration with 3rd Party Device: Many gym users use fitbits or apple watches. 
 
   | Issue ID | WBS | Date Found | Assigned | Description | Status | Close Out Date |
   | ------- | --- | ---------- | -------- | ----------- | -------- | ------ |
-  | 001 | 2 | 1 | 1/20/2025 | Anabelle | Scope Grope | Allocating a week for any issues, questions, or concerns. | ------ |
-  | 002 | 5 | 2 | 1/20/2025 | Team | Scope Leap | Establish clear project milestones, budget time for unexpected delays, and prioritize critical tasks.  | ------ |
-  | 003 | 3 | 3 | 1/20/2025 | Anabelle | Loss of Sponsor | Maintain consistent and transparent communication with Tony (our sponsor).  | resolved |
+  | 001 | 2 | 1 | 2/25/2025 | Tyler | Scope Grope | We could not establish whether to do a wireframe or an app. | ------ |
+  | 002 | 5 | 2 | 1/20/2025 | Team | Team Conflict | Due to conflicted schedules we had a lack of communication. | ------ |
 
 *Template used: Issue+Log*
