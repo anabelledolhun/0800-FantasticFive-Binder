@@ -256,6 +256,14 @@ Overall, the biggest lesson I learned is that while one person can produce somet
 
 ### Hazel
 
+Throughout the completion of our semester-long project, I have learned many valuable lessons that have enhanced my professional skills. One area I significantly improved upon was collaborating effectively with team members who had different schedules, perspectives, and ideas. Despite these challenges, we maintained consistent and open communication, actively listening to one another and providing constructive feedback to ensure we delivered the best possible outcome. When a teammate struggled, we rallied together to offer support, reinforcing the importance of collective problem-solving. This experience has prepared me for future roles in collaborative environments where adaptability and teamwork are essential.
+
+Additionally, I applied key project management principles, such as using binders, defining scope, and creating matrices to organize our work. At first glance, these frameworks seemed straightforward, but I quickly realized how challenging it was to apply them to a real business context. Documenting processes, aligning deliverables with client needs, and maintaining clarity in our matrices required more nuance than I expected. However, these management strategies proved invaluable—they kept our team structured, ensured accountability, and helped us avoid scope creep. We set clear due dates and timelines, and through constant communication, we stayed updated on progress and adjusted as needed. I also took ownership of identifying risks, such as delays in client feedback or resource limitations, which taught me how to proactively address challenges in future projects.
+
+Working with an actual client added another layer of professionalism to the project. Presenting ideas, incorporating their feedback, and delivering a tangible output required us to balance creativity with practicality. Unlike hypothetical classroom assignments, this project demanded real-world accountability, teaching me how to navigate client expectations while maintaining a polished and professional approach.
+
+Overall, this project has significantly contributed to my growth. I’ve gained hands-on experience in teamwork, project management tools, and client relations as well as how to present professionally. I would like to appreciate my teammates who helped me alot with the language barrier and understanding the principle of project management. 
+
 # Appedices 
 ## A. MoSCoW Model
 
