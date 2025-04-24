@@ -220,7 +220,13 @@ The basic design of our wireframe is displayed below in the image.
 
 In terms of design approach, our main goal was to create an inclusive UI. We aimed for our design to be consistent with the branding of the gym therefore giving the user a sense of familiarity. Considering that the gym clientele extends across any and all demographics, we wanted to ensure that any individual would feel comfortable navigating the platform. Therefore, we prioritized a clean, clear, and simple design. For sponsor needs, we placed a focal point on all of the key features we had discussed previously. 
 
-*The Interactive Demo of the Wireframe is in the Appendices (XIV. add in letter)*
+## Final Wireframe Deliverable
+
+Link to Access on Figma:
+
+insert link here
+
+*A video demonstration is included in the submission as a seperate file*
 
 # XI. Implementation
 
