@@ -327,13 +327,13 @@ Integration with 3rd Party Device: Many gym users use fitbits or apple watches. 
 
 ## B. Risk Log
 
-  | Risk ID | WBS | Rank | Date Found | Assigned | Description | Strategy | Status |
-  | ------- | --- | ---- | ---------- | -------- | ----------- | -------- | ------ |
-  | 001 | 2 | 1 | 1/20/2025 | Anabelle | Ineffective Handoff | Allocating a week for any issues, questions, or concerns. | ------ |
-  | 002 | 5 | 2 | 1/20/2025 | Team | Insufficient Time | Establish clear project milestones, budget time for unexpected delays, and prioritize critical tasks.  | ------ |
-  | 003 | 3 | 3 | 1/20/2025 | Anabelle | Loss of Sponsor | Maintain consistent and transparent communication with Tony (our sponsor).  | resolved |
-  | 004 | 5 | 4 | 1/20/2025 | Tyler | Issues with Figma | Regularly save backups and create a contingency plan (i.e. alternative tool). | ------ |
-  | 005 | 10 | 5 | 1/20/2025 | Team | Group Member Conflict | Maintaining clear, everyday communication by haaving a group chat.  | ------ |
+  | Risk ID | WBS | Rank | Date Found | Assigned | Description | Strategy |
+  | ------- | --- | ---- | ---------- | -------- | ----------- | -------- |
+  | 001 | 2 | 1 | 1/20/2025 | Anabelle | Ineffective Handoff | Allocating a week for any issues, questions, or concerns. | 
+  | 002 | 5 | 2 | 1/20/2025 | Team | Insufficient Time | Establish clear project milestones, budget time for unexpected delays, and prioritize critical tasks.  |
+  | 003 | 3 | 3 | 1/20/2025 | Anabelle | Loss of Sponsor | Maintain consistent and transparent communication with Tony (our sponsor).  | 
+  | 004 | 5 | 4 | 1/20/2025 | Tyler | Issues with Figma | Regularly save backups and create a contingency plan (i.e. alternative tool). | 
+  | 005 | 10 | 5 | 1/20/2025 | Team | Group Member Conflict | Maintaining clear, everyday communication by haaving a group chat.  |
 
 *Template used: Risk+Log*
 
