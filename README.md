@@ -86,7 +86,7 @@ Add questions to this list that fit your project environment.  If you miss an im
 | 5. Approves changes to requirements? | Team, Tony |
 | 6. Approves changes affecting schedule? | Dr. Huber |
 | 7. Approves changes affecting cost? | Dr. Huber, team |
-| 8. Will use the product or service produced by the project? | Tony, members of Fitness @ 5 |
+| 8. Will use the product or service produced by the project? | Tony, gym members |
 | 9. Set the organizational goals that drive the necessity of this project? | Team |
 | 10. Will assign people to the project team and determine the hours per day they work on the project?| Dr. Huber |
 | 11. Approves contracts for suppliers? | Dr. Huber |
@@ -96,7 +96,7 @@ Add questions to this list that fit your project environment.  If you miss an im
 | 15. Represents regulations or laws affecting this project? | N/a |
 | 16. Will have their work disrupted by this project? | Team |
 | 17. Will have to change their systems or processes because of this project? | Tony, team |
-| 18. Will benefit from this project? (If this is a large group, who will represent this group?) | Tony, members of Fitness @ 5 |
+| 18. Will benefit from this project? (If this is a large group, who will represent this group?) | Tony, gym members |
 | 19. Will perform the work on this project? (This includes all vendors and subcontractors as well as employees) | Team |
 | 20. Will participate in phase gate decisions to approve moving the project to the next phase? | Team |
 
