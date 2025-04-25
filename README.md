@@ -133,7 +133,7 @@ This communication plan describes our strategy for keeping the project’s stake
 
 Our team will manage changes through a structured Change Management Plan to ensure transparency, alignment, and documentation of all modifications. Any suggested changes, whether proposed by a team member or the sponsor, will be discussed in a group meeting. During this meeting, we will evaluate the components of the change and determine its impact on the project. A group vote will be conducted, and if the majority supports the change, it will be affirmed.
 
-Additionally, we will maintain open communication with the sponsor regarding any necessary changes. If the sponsor suggests a change, our team will follow the same decision-making process stated above to assess and approve the modification. All agreed-upon changes will be recorded in the change log (reference the section that the change log is on here) to track adjustments and maintain accountability throughout the project.
+Additionally, we will maintain open communication with the sponsor regarding any necessary changes. If the sponsor suggests a change, our team will follow the same decision-making process stated above to assess and approve the modification. All agreed-upon changes will be recorded in the change log to track adjustments and maintain accountability throughout the project.
 
 *The Change log is found in the Appendices (XIV.C)*
 
@@ -143,7 +143,7 @@ Additionally, we will maintain open communication with the sponsor regarding any
 
   If necessary, we will communicate with the sponsor to provide details on the severity and facts of the issue. Should the sponsor bring forth an issue, our team will follow the same process—analyzing the problem, identifying areas of weakness, and collaboratively working toward a swift resolution. All efforts will be made to address issues in a timely manner to minimize any disruption to the project’s progress.
 
-  To maintain accountability and track recurring challenges, all issues will be documented in the issue log (reference the section the issue log is on here). This log will serve as a record of identified issues, actions taken, and resolutions, ensuring transparency and continuous improvement throughout the project.
+  To maintain accountability and track recurring challenges, all issues will be documented in the issue log. This log will serve as a record of identified issues, actions taken, and resolutions, ensuring transparency and continuous improvement throughout the project.
 
 *The Issue log is found in the Appendices (XIV.D)*
 
@@ -280,7 +280,7 @@ There was no shortage of lessons learned throughout this project, especially in 
 In terms of project management, this project allowed us to put all the relevant concepts, techniques, and tools that we have learned throughout this course into practice. One of my key takeaways from this project is that structure is a necessary benefit. At times, as mentioned before, our group had conflicting ideas on what our scope demanded. However, because we were able to reference tools like our MoSCoW model, risks were often entirely avoided. 
 	When it comes to creating, especially for a client, it’s supremely important to build something that you’re proud of. All too often, we, as students, are assigned with “cookie-cutter” rubrics, entirely void of any opportunity for individuality. Realistically, this is one of the only assignments throughout my education that has not only given me the opportunity to, but has inspired me to apply myself. For example, with regards to the wireframes and UI design, I was able to leverage a passionate skill of mine in order to help our project meet its requirements. Furthermore, working with a client that has a vested interest in our finished product served as a valuable motive throughout the process. 
 
-### Gryason
+### Grayson
 
 Throughout the completion of our semester-long project I have learned many valuable lessons that have enhanced my professional skills. One area I significantly improved upon was collaborating effectively with my team members. We maintained consistent and open communication throughout the project, regularly providing each other with constructive feedback to ensure we delivered the best possible outcome. This experience has helped prepare me for future roles in collaborative environments that require continuous coordination and teamwork. 
 
