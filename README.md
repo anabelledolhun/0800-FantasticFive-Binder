@@ -39,7 +39,7 @@ Fitness at Five’s primary mission and goal is to connect with their members as
 
 ## Background
 
-Fitness @ Five is an independent small business started in the summer of 2010. Both locally owned and operated they provide an all access, 24/7 experience for all their members. The main goal of Fitness @ Five is not only to help clients achieve their fitness goals but create a welcoming community This small business is determined to make members feel comfortable and connected with each client being on a first-name basis, ultimately creating a close-knit community. Their belief in their community is strong and they have no long term contracts, only month-to-month memberships. Fitness @ Five is its own little family. 
+Fitness at Five is an independent small business started in the summer of 2010. Both locally owned and operated they provide an all access, 24/7 experience for all their members. The main goal of Fitness at Five is not only to help clients achieve their fitness goals but create a welcoming community This small business is determined to make members feel comfortable and connected with each client being on a first-name basis, ultimately creating a close-knit community. Their belief in their community is strong and they have no long term contracts, only month-to-month memberships. 
 
 ## Description of Challange or Opportunity
 
