@@ -224,7 +224,7 @@ In terms of design approach, our main goal was to create an inclusive UI. We aim
 
 Link to Access on Figma:
 
-(https://www.figma.com/design/V0BKkEAC6yeSSHpSSHS9IM/Fitness---Five-Wireframe-Development?node-id=0-1&m=dev&t=BdT8xe3lwFaIj9h7-1)
+https://www.figma.com/proto/V0BKkEAC6yeSSHpSSHS9IM/Fitness---Five-Wireframe-Development?node-id=0-1&t=BdT8xe3lwFaIj9h7-1 
 
 *A video demonstration is included in the submission as a seperate file*
 
