@@ -26,7 +26,7 @@
 | IX. Project Budget Summary | 
 | X. Design Documentation and Discussion |
 | XI. Implementation | 
-| XII. Project Handoff | 
+| XII. Project Handover | 
 | XIII. Individual Reflections | 
 | XIV. Appendices |
 
