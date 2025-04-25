@@ -222,7 +222,12 @@ In terms of design approach, our main goal was to create an inclusive UI. We aim
 
 ## Final Wireframe Deliverable
 
-Link to Access on Figma:
+### To access the Wireframe...
+1. Right click the link (or click with two fingers if using a Mac)
+2. Select "Open Link in New Tab"
+3. The wireframe will come up in a new tab
+
+*This makes it easier to return to the binder* 
 
 https://www.figma.com/proto/V0BKkEAC6yeSSHpSSHS9IM/Fitness---Five-Wireframe-Development?node-id=0-1&t=BdT8xe3lwFaIj9h7-1 
 
@@ -233,6 +238,7 @@ https://www.figma.com/proto/V0BKkEAC6yeSSHpSSHS9IM/Fitness---Five-Wireframe-Deve
 ## Strategy
 
 - Implement an iterative development approach, where wireframes are developed in stages, with regular feedback from Tony.
+- We are also aiming to be as detail-oriented as possible to provide a thorough explanation.
 
 ## Challanges
 
