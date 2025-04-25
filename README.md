@@ -53,7 +53,7 @@ Creating a wireframe for them will streamline the process of launching an app an
 
 ## Scope Statement
 
-We will create wireframes to enhance member experience, streamline gym operations, and reduce app development costs. Creating wireframes that outline the app’s UI design will allow the gym to reduce the complexity of development when hiring an outside team to create the app.
+"We will create wireframes to enhance member experience, streamline gym operations, and reduce app development costs. Creating wireframes that outline the app’s UI design will allow the gym to reduce the complexity of development when hiring an outside team to create the app."
 
 *MoSCoW Model in the Appendices (XIV.A)*
 
