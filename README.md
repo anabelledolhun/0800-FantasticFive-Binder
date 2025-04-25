@@ -206,7 +206,7 @@ Other resources included our laptops and personal devices, which were essential 
 | Labor (consultants, contract labor) | $5000 |
 | Equipment, hardware or software | $15/mnth*3mnths=<br/>$45  |
 | List other costs such as travel & training | $1000 |
-| Total Costs | $- |
+| Total Costs | $7207 |
 
 *Template used: Statement+of+Work, 'Cost Estimates' section*
 
