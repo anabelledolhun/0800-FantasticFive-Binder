@@ -224,7 +224,7 @@ In terms of design approach, our main goal was to create an inclusive UI. We aim
 
 Link to Access on Figma:
 
-insert link here
+(https://www.figma.com/design/V0BKkEAC6yeSSHpSSHS9IM/Fitness---Five-Wireframe-Development?node-id=0-1&m=dev&t=BdT8xe3lwFaIj9h7-1)
 
 *A video demonstration is included in the submission as a seperate file*
 
@@ -356,3 +356,56 @@ Integration with 3rd Party Device: Many gym users use fitbits or apple watches. 
   | 002 | 5 | 2 | 1/20/2025 | Team | Team Conflict | Due to conflicted schedules we had a lack of communication. | ------ |
 
 *Template used: Issue+Log*
+
+## E. In-class Activities
+
+### Followership exercize
+
+Judgement
+Anabelle- In my SQL group project, one of the group members encouraged us to use ChatGPT for all of the code, but I ended up deciding against that as it goes against the ethics and integrity of the project and we were specifically only to use it for data generation. The rest of the group members and I made sure he did his contribution without using that platform. 
+ 
+Work Ethic
+Grayson- Last summer internship, he was always on top of tasks and his boss was appreciative of his work ethic. For example, his boss would say things such as, “you complete things faster than I come up with things” 
+
+Competence
+Anabelle- In my internship, I had adequate Excel skills and knowledge to perform the tasks I was assigned and to complete the project in a more timely manner. 
+
+Honesty
+Tyler- He accidentally broke a piece of furniture at his job with a furniture company. He was honest about it and told the customer what happened. He made an effort to stay true to his employer’s philosophy of client honesty.
+
+Courage
+Anabelle- in my internship, I was specifically asked to manually enter hundreds and hundreds of oil parts by hand into a spreadsheet as opposed to using formulas. I had the courage to consult my supervisor and suggest another method with Excel formulas to achieve the same outcome.  
+
+Discretion
+Tyler- At the tennis store he worked at, the store had a big discount going on, but management said not to tell anyone about it. In response, he made sure to not tell customers even if they asked about it. 
+
+Loyalty
+Hazel- She committed to a job offer and received another offer that had a higher pay. However, she stayed loyal to her original offer. 
+
+Ego Management
+Tyler- In his BPMN group project, when the other members were not contributing a fair share, he had to set his ego aside and do the work instead of causing an argument with the other members to help him more.
+
+### Team Roles
+
+Anabelle
+- Initiator
+- Yielding
+- Information seeker
+
+Tyler
+- Ellaborator 
+- Encouraging 
+
+Grayson
+- Initiator
+- Information giver
+- Accepting 
+
+Hazel
+- Information giver
+
+Krutee 
+- Representative
+- Consensus seeker 
+
+
