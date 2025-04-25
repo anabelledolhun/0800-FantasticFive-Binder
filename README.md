@@ -403,6 +403,7 @@ Grayson
 
 Hazel
 - Information giver
+- Accepting 
 
 Krutee 
 - Representative
